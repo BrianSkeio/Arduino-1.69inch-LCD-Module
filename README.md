@@ -1,3 +1,5 @@
+![Arduino_for_1 69_lcd_module](https://github.com/user-attachments/assets/31b5c6ad-a314-40db-86fd-80f96cd82595)
+
 - Operating voltage: 3.3V/5V
 - Communication interface: SPI
 - Display Panel: IPS
